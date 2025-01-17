@@ -1,6 +1,5 @@
-Here's a more attractive and visually engaging version of your markdown:
 
-````markdown
+```markdown
 # 🎬 **Movie List**
 
 ## 🌟 **Introduction**
@@ -25,6 +24,7 @@ Welcome to the **Movie List** – an interactive web application where movie lov
 - **Axios**: Fetching movie data from the TMDb API.
 - **React Router**: Smooth navigation between different pages.
 - **React Paginate**: Implementing an easy-to-use pagination system.
+- **Redux & React-Redux**: Managing application state using Redux and connecting it with React using `react-redux` and `@reduxjs/toolkit`.
 
 ---
 
@@ -35,9 +35,8 @@ Welcome to the **Movie List** – an interactive web application where movie lov
 Clone this project to your machine with:
 
 ```bash
-git clone https://github.com/kerlos-alfy/Movie-List.git
+git clone https://github.com/kerlos-alfy/-Movie-List-Redux.git
 ```
-````
 
 ### 2. **Install Dependencies**
 
